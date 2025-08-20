@@ -1,5 +1,5 @@
 requests
-yfinance
-pandas
+yfinance==0.2.*
+pandas>=2.0
 numpy
 python-dateutil
