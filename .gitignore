@@ -1,5 +1,7 @@
 __pycache__/
 *.pyc
-.DS_Store
+*.pyo
+*.pyd
+*.db
+*.sqlite3
 .env
-*.log
